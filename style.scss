@@ -1,0 +1,13 @@
+$myFont: Verdana ,sans-serif;
+$myColor:Pink;
+$myFontSize:18px;
+$myWidth:680px;
+
+body{
+    font-family: $myFont;
+    color: $myColor;
+    font-size: $myFontSize;
+}
+#container{
+    width: $myWidth;
+}

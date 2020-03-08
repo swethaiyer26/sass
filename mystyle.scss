@@ -1,0 +1,12 @@
+$mycolor:yellow;
+$myfont:Arial;
+
+h1{
+    $mycolor:blue;
+    color: $mycolor;
+
+}
+p{
+    font-style:$myfont;
+    color: $mycolor;
+}
